@@ -1,0 +1,34 @@
+[33mcommit 52204470c76a10eca423d8939f20a534f32d7ba1[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: Amine Ettakhchi <amine.ettakhchi@gmail.com>
+Date:   Fri Jan 15 11:59:19 2021 +0100
+
+    c3
+
+[1mdiff --git a/recette1 b/recette1[m
+[1mindex d2f32f3..a89e7b6 100644[m
+[1m--- a/recette1[m
+[1m+++ b/recette1[m
+[36m@@ -1,2 +1,4 @@[m
+ tarte[m
+[31m-on melange bien[m
+\ No newline at end of file[m
+[32m+[m[32mon melange bien[m
+[32m+[m
+[32m+[m[32mbeure oeuf[m
+[1mdiff --git a/recette2 b/recette2[m
+[1mindex e69de29..57a9d2d 100644[m
+[1m--- a/recette2[m
+[1m+++ b/recette2[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mepice[m[41m [m
+[32m+[m[32mfarine[m
+\ No newline at end of file[m
+[1mdiff --git a/recette3 b/recette3[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9ee0b00[m
+[1m--- /dev/null[m
+[1m+++ b/recette3[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32mtomate[m
+[32m+[m[32mpoivron[m
+\ No newline at end of file[m
